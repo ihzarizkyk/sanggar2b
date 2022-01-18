@@ -1,0 +1,10 @@
+.jumbotron{
+	background: url("../assets/images/outbound.jpeg");
+	top: 400;
+	bottom: 200;
+
+}
+
+#head-gallery{
+	filter: grayscale(100%);
+}
